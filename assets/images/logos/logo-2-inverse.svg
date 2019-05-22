@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 76" width="200" height="76">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M3.53,60.02h193.77v-44.31h-193.77z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.txt0 { font-size: 28px;fill: #ffffff;font-family: "DejaVu Sans";font-weight: 400;text-anchor: middle } 
+	</style>
+	<g id="Page-2---inverse">
+		<g id="Group-9">
+			<g id="Group-3">
+				<g id="logo-2">
+					<g id="Fill-3-Clipped">
+						<g id="Clip-Path: Fill-3" clip-path="url(#cp1)">
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<text id="MurderBoat " style="transform: matrix(1,0,0,1,100,23)" >
+			<tspan x="0" y="28" class="txt0">MurderBoat</tspan>
+		</text>
+	</g>
+</svg>
